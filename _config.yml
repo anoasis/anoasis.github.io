@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   jiyun_kang
+disqus_shortname:   anoasis-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +40,7 @@ disqus_shortname:   jiyun_kang
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         anoasis
+github-url:         github.com/anoasis
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           jiyun-kang-94178525
 #xing:              username
